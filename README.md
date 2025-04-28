@@ -1,8 +1,8 @@
 # 2c.SIMULATING ARP /RARP PROTOCOLS
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
-## NAME: RAMITHA CHOWDARY S
-## REG NO.: 212224240130
+## NAME:Vishvanandh N
+## REG NO.: 212224240186
 ## ALGORITHM:
 ## Client:
 1. Start the program
